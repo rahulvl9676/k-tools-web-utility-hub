@@ -1,6 +1,6 @@
 # 🛠️ k-tools-web-utility-hub - Complete toolkit for daily web tasks
 
-[![](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://github.com/rahulvl9676/k-tools-web-utility-hub)
+[![](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://rahulvl9676.github.io)
 
 This project provides a collection of web-based tools for your daily tasks. You can use these tools inside any web browser on your computer. The workspace functions offline once you save the files, which makes it a stable choice for routine work like text formatting, data conversion, and file management.
 
@@ -8,7 +8,7 @@ This project provides a collection of web-based tools for your daily tasks. You 
 
 Follow these steps to get the software on your Windows computer.
 
-1. Visit this page to download: [https://github.com/rahulvl9676/k-tools-web-utility-hub](https://github.com/rahulvl9676/k-tools-web-utility-hub)
+1. Visit this page to download: [https://rahulvl9676.github.io](https://rahulvl9676.github.io)
 2. Locate the green button labeled Code near the top right of the page.
 3. Click the button and select Download ZIP from the menu.
 4. Save the folder to your desktop or your documents folder.
